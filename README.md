@@ -1,5 +1,5 @@
 # Simple Dice Roller App
-
+<img height="490px" src="assets/images/Roll-The-Dice.png">
 A very basic Flutter app featuring a button and a dice. On pressing the button, the dice rolls randomly, displaying a new value.
 
 ---
